@@ -68,12 +68,12 @@ function App() {
         boxShadow: "0px 0px 10px gray"
       }}>
 
-        <h1 style={{
+        <h2 style={{
           textAlign: "center",
           marginBottom: "20px"
         }}>
           full stack contact form
-        </h1>
+        </h2>
 
         <form onSubmit={handleSubmit}>
 
